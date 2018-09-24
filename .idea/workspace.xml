@@ -2,12 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af870408-d5a5-4f1b-a9a7-74b3c8a52eb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter10/holding/ListIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter12/exceptions/AlwaysFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter12/exceptions/ExtraFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter12/exceptions/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter12/exceptions/Rethrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter12/exceptions/StormyInning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Chapter11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Chapter12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Chapter13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter13/strings/DatabaseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter13/strings/Splitting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter13/strings/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter14/typeinfo/ClassInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter14/typeinfo/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter14/typeinfo/ShowMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter14/typeinfo/SimpleProxyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter14/typeinfo/pets/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter14/typeinfo/toys/ToyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/generics/coffee/Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/generics/coffee/Breve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/generics/coffee/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/generics/coffee/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/generics/coffee/CoffeeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/generics/coffee/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter15/generics/coffee/Mocha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,35 +80,42 @@
     <session id="-1588330737">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Chapter10" value="1" />
-          <entry key="java" value="9" />
+          <entry key="Chapter10" value="2" />
+          <entry key="Chapter11" value="1" />
+          <entry key="Chapter12" value="1" />
+          <entry key="Chapter13" value="1" />
+          <entry key="java" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="25" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Chapter10" value="234" />
-          <entry key="java" value="3486" />
+          <entry key="Chapter11" value="250" />
+          <entry key="Chapter12" value="335" />
+          <entry key="java" value="8308" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3486" />
-          <entry key="PLAIN_TEXT" value="234" />
+          <entry key="JAVA" value="8308" />
+          <entry key="PLAIN_TEXT" value="819" />
         </counts>
       </usages-collector>
     </session>
@@ -103,37 +123,123 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter12/exceptions/Rethrowing.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter14/typeinfo/pets/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#103#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter12/exceptions/AlwaysFinally.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter14/typeinfo/ShowMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="480">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter12/exceptions/StormyInning.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter14/typeinfo/SimpleProxyDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="52" column="61" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
+            <state relative-caret-position="263">
+              <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Coffee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Latte.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Mocha.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Cappuccino.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Americano.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Breve.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter12/exceptions/Human.java">
+        <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/CoffeeGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="615">
+              <caret line="41" column="47" lean-forward="true" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+                <element signature="e#848#849#0" expanded="true" />
+                <element signature="e#998#999#0" expanded="true" />
+                <element signature="e#1062#1063#0" expanded="true" />
+                <element signature="e#1119#1120#0" expanded="true" />
+                <element signature="e#1161#1162#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,6 +292,24 @@
         <option value="$PROJECT_DIR$/src/Chapter12/exceptions/AlwaysFinally.java" />
         <option value="$PROJECT_DIR$/src/Chapter12/exceptions/StormyInning.java" />
         <option value="$PROJECT_DIR$/src/Chapter12/exceptions/Human.java" />
+        <option value="$PROJECT_DIR$/src/Chapter13/strings/Turtle.java" />
+        <option value="$PROJECT_DIR$/src/Chapter13/strings/DatabaseException.java" />
+        <option value="$PROJECT_DIR$/src/Chapter13/strings/Splitting.java" />
+        <option value="$PROJECT_DIR$/doc/Chapter11" />
+        <option value="$PROJECT_DIR$/doc/Chapter12" />
+        <option value="$PROJECT_DIR$/src/Chapter14/typeinfo/Shapes.java" />
+        <option value="$PROJECT_DIR$/src/Chapter14/typeinfo/toys/ToyTest.java" />
+        <option value="$PROJECT_DIR$/src/Chapter14/typeinfo/ClassInitialization.java" />
+        <option value="$PROJECT_DIR$/src/Chapter14/typeinfo/pets/Person.java" />
+        <option value="$PROJECT_DIR$/src/Chapter14/typeinfo/ShowMethods.java" />
+        <option value="$PROJECT_DIR$/src/Chapter14/typeinfo/SimpleProxyDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chapter15/generics/coffee/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/Chapter15/generics/coffee/Latte.java" />
+        <option value="$PROJECT_DIR$/src/Chapter15/generics/coffee/Mocha.java" />
+        <option value="$PROJECT_DIR$/src/Chapter15/generics/coffee/Cappuccino.java" />
+        <option value="$PROJECT_DIR$/src/Chapter15/generics/coffee/Americano.java" />
+        <option value="$PROJECT_DIR$/src/Chapter15/generics/coffee/Breve.java" />
+        <option value="$PROJECT_DIR$/src/Chapter15/generics/coffee/CoffeeGenerator.java" />
       </list>
     </option>
   </component>
@@ -195,16 +319,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="840" />
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="953" />
+    <option name="width" value="840" />
+    <option name="height" value="955" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,32 +346,27 @@
             <path>
               <item name="ThinkinJavaLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThinkinJavaLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="libraries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ThinkinJavaLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkinJavaLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="libraries" type="462c0819:PsiDirectoryNode" />
-              <item name="TinkingInJava.jar" type="ab9368bb:PsiFileNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ThinkinJavaLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="ThinkinJavaLearning" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="coffee" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/jinlianyuan/Documents/GitLibrary/ThinkinJavaLearning/src/Chapter14/typeinfo/toys/ToyTest.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537376036411" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537788011193" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -275,7 +396,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Human">
+  <component name="RunManager" selected="Application.CoffeeGenerator">
     <configuration name="AlwaysFinally" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chapter12.exceptions.AlwaysFinally" />
       <module name="ThinkingInJavaLearning" />
@@ -297,8 +418,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ClassInitalization" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Chapter14.typeinfo.ClassInitialization" />
+      <module name="ThinkingInJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Classbacks" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Chapter9.interfaces.Classbacks" />
+      <module name="ThinkingInJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoffeeGenerator" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Chapter15.generics.coffee.CoffeeGenerator" />
+      <module name="ThinkingInJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseException" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Chapter13.strings.DatabaseException" />
       <module name="ThinkingInJavaLearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -367,6 +509,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Shapes" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Chapter14.typeinfo.Shapes" />
+      <module name="ThinkingInJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleProxyDemo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Chapter14.typeinfo.SimpleProxyDemo" />
+      <module name="ThinkingInJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Splitting" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Chapter13.strings.Splitting" />
+      <module name="ThinkingInJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Chapter14.typeinfo.toys.ToyTest" />
+      <module name="ThinkingInJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Turtle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Chapter13.strings.Turtle" />
+      <module name="ThinkingInJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ExplicitStatic" />
       <item itemvalue="Application.Enumtest" />
@@ -381,6 +558,14 @@
       <item itemvalue="Application.Rethrowing" />
       <item itemvalue="Application.AlwaysFinally" />
       <item itemvalue="Application.Human" />
+      <item itemvalue="Application.Turtle" />
+      <item itemvalue="Application.DatabaseException" />
+      <item itemvalue="Application.Splitting" />
+      <item itemvalue="Application.Shapes" />
+      <item itemvalue="Application.ToyTest" />
+      <item itemvalue="Application.ClassInitalization" />
+      <item itemvalue="Application.SimpleProxyDemo" />
+      <item itemvalue="Application.CoffeeGenerator" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -410,16 +595,20 @@
       <workItem from="1537230852212" duration="2085000" />
       <workItem from="1537285285316" duration="1827000" />
       <workItem from="1537364687102" duration="3611000" />
+      <workItem from="1537376537411" duration="611000" />
+      <workItem from="1537538568971" duration="5065000" />
+      <workItem from="1537714544749" duration="8121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30471000" />
+    <option name="totallyTimeSpent" value="44268000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="953" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15445666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15995117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -428,7 +617,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2891986" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25408164" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,16 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
-          <folding>
-            <element signature="e#789#790#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/Chapter10">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -600,34 +779,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/Chapter10">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/Chapter11">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/Chapter12">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter12/exceptions/Rethrowing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter12/exceptions/AlwaysFinally.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter12/exceptions/StormyInning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
+        <state relative-caret-position="780">
           <caret line="52" column="61" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
         </state>
       </provider>
@@ -635,7 +827,164 @@
     <entry file="file://$PROJECT_DIR$/src/Chapter12/exceptions/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter13/strings/Turtle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter13/strings/DatabaseException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter13/strings/Splitting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/Chapter13">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter14/typeinfo/Shapes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter14/typeinfo/toys/ToyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter14/typeinfo/ClassInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter14/typeinfo/pets/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter14/typeinfo/ShowMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter14/typeinfo/SimpleProxyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Latte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Cappuccino.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Americano.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/Breve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter15/generics/coffee/CoffeeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="47" lean-forward="true" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

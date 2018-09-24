@@ -1,0 +1,10 @@
+这一章主要讲的是Java的异常，我个人感觉是比较重要的
+异常的基本结构是try{...}catch(){...}。try语句中执行主程序，
+如果出现问题便抛出异常，catch语句用来捕获异常并进行相应的处理。
+所有的异常继承于异常的基类Exception。利用logging可以实现异常的日志记录。
+printStackTrace方法可以打印程序执行的栈轨迹，为解决bug提供了宝贵的信息。
+
+在catch异常处理中可以向上一级排除异常，但是这样的话printStackTrace方法的信息会出问题，
+需要用fillInStackTrace方法修复。
+
+finally语句用在try catch最后，它永远会被执行，它可以做一些清理、复位的工作。
